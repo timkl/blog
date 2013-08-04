@@ -1,19 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://timkl.github.io/blog/2013/08/02/hello-octopress-and-github-pages/</loc>
+        <loc>
+            http://timkl.github.io//github/blog/2013/08/02/hello-octopress-and-github-pages/
+        </loc>
         <lastmod>2013-08-02T14:57:07+02:00</lastmod>
     </url>
     <url>
-        <loc>http://timkl.github.io/blog/archives/</loc>
+        <loc>http://timkl.github.io//github/blog/archives/</loc>
         <lastmod>2013-08-02T14:57:07+02:00</lastmod>
     </url>
     <url>
-        <loc>http://timkl.github.io/</loc>
+        <loc>http://timkl.github.io//github/</loc>
         <lastmod>2013-08-02T14:57:07+02:00</lastmod>
     </url>
     <url>
-        <loc>http://timkl.github.io/robots.txt</loc>
+        <loc>http://timkl.github.io//github/robots.txt</loc>
         <lastmod>2013-07-30T23:38:05+02:00</lastmod>
     </url>
 </urlset>

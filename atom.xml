@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://timkl.github.io/atom.xml" rel="self"/>
-  <link href="http://timkl.github.io/"/>
-  <updated>2013-08-02T14:57:39+02:00</updated>
-  <id>http://timkl.github.io/</id>
+  <link href="http://timkl.github.io//github/atom.xml" rel="self"/>
+  <link href="http://timkl.github.io//github/"/>
+  <updated>2013-08-04T22:40:13+02:00</updated>
+  <id>http://timkl.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello Octopress and Github pages]]></title>
-    <link href="http://timkl.github.io/blog/2013/08/02/hello-octopress-and-github-pages/"/>
+    <link href="http://timkl.github.io//github/blog/2013/08/02/hello-octopress-and-github-pages/"/>
     <updated>2013-08-02T14:57:00+02:00</updated>
-    <id>http://timkl.github.io/blog/2013/08/02/hello-octopress-and-github-pages</id>
+    <id>http://timkl.github.io//github/blog/2013/08/02/hello-octopress-and-github-pages</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

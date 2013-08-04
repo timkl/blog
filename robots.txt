@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://timkl.github.io/sitemap.xml 
+Sitemap: http://timkl.github.io//github/sitemap.xml 
